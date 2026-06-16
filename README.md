@@ -1,14 +1,22 @@
-# 🏆 Sports Betting Arbitrage Scanner v2.0
+# 🏆 Sports Betting & Crypto Portfolio Tool Suite
 
-**Find guaranteed profit opportunities across 30+ bookmakers.**
+**Find guaranteed profit opportunities across 30+ bookmakers & track your crypto portfolio.**
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://python.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-[![Buy Premium](https://img.shields.io/badge/Buy-Premium-orange)](https://fargyy.gumroad.com/l/arbitrage-calculator)
+[![Gumroad Store](https://img.shields.io/badge/Store-Gumroad-orange)](https://fargyy.gumroad.com)
 
 ---
 
-## 🚀 What is Sports Betting Arbitrage?
+## 🛠 Tools in This Repo
+
+### 1️⃣ Sports Betting Arbitrage Scanner (`arbitrage_scanner.py`)
+Find **risk-free** guaranteed profit by betting on all outcomes across different bookmakers.
+
+### 2️⃣ Crypto Portfolio Scanner (`crypto_scanner.py`)
+Track your portfolio P&L, allocation percentages, and risk metrics from the command line.
+
+---
 
 Sports betting arbitrage (aka "sure bets" or "arbing") is a **risk-free** betting strategy where you place bets on **all possible outcomes** of an event across different bookmakers. Because bookmakers set slightly different odds, you can lock in a guaranteed profit — **regardless of who wins**.
 
@@ -134,19 +142,22 @@ Sports betting arbitrage is legal in most jurisdictions, but some bookmakers may
 
 - [x] Core arbitrage engine (2-way, 3-way, N-way)
 - [x] Odds format converter (Decimal/American/Fractional)
+- [x] Crypto portfolio scanner with P&L & allocation
 - [x] Profit tracker with P&L
 - [x] Interactive mode
 - [ ] Live odds scraping from public sources
-- [ ] CSV export
+- [ ] CSV export for tax reporting
 - [ ] Web GUI version (coming in Premium)
 
 ---
 
 ## 🔗 Links
 
-- **Gumroad (Premium):** [https://fargyy.gumroad.com/l/arbitrage-calculator](https://fargyy.gumroad.com/l/arbitrage-calculator)
-- **GitHub Repo:** [https://github.com/fargyy1/sports-betting-arbitrage-scanner](https://github.com/fargyy1/sports-betting-arbitrage-scanner)
-- **YouTube Demo:** *(coming soon)*
+- **Gumroad Store:** [https://fargyy.gumroad.com](https://fargyy.gumroad.com)
+- **Arbitrage Calculator (Premium):** [https://fargyy.gumroad.com/l/arbitrage-calculator](https://fargyy.gumroad.com/l/arbitrage-calculator) — $15
+- **Crypto Portfolio Tracker (Premium):** [https://fargyy.gumroad.com/l/xrcgws](https://fargyy.gumroad.com/l/xrcgws) — $10
+- **GitHub Repo:** [https://github.com/fargyy1/sports-betting-arb-calc](https://github.com/fargyy1/sports-betting-arb-calc)
+- **All Products:** Options Calculator, Stock Screener, AI Prompts, Markdown Converter, Email Templates & more
 
 ---
 
