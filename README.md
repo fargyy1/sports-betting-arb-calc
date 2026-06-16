@@ -1,6 +1,6 @@
-# 🏆 Sports Betting & Crypto Portfolio Tool Suite
+# 🏆 Sports Betting, Crypto & News CLI Tool Suite
 
-**Find guaranteed profit opportunities across 30+ bookmakers & track your crypto portfolio.**
+**Find guaranteed profit across 30+ bookmakers, track your crypto portfolio, and get breaking tech news in your terminal.**
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://python.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
@@ -15,6 +15,9 @@ Find **risk-free** guaranteed profit by betting on all outcomes across different
 
 ### 2️⃣ Crypto Portfolio Scanner (`crypto_scanner.py`)
 Track your portfolio P&L, allocation percentages, and risk metrics from the command line.
+
+### 3️⃣ NewsSnapper — News Aggregator (`news_snapper.py`) 🆕
+Get breaking tech/news headlines from Hacker News, TechCrunch, and RSS feeds—right in your terminal. No browser needed.
 
 ---
 
@@ -36,6 +39,7 @@ Sports betting arbitrage (aka "sure bets" or "arbing") is a **risk-free** bettin
 - ✅ **Profit tracker** — log your bets, track P&L over time
 - ✅ **Confidence scoring** — HIGH/MEDIUM/LOW based on profit margin
 - ✅ **No API keys needed** — works entirely offline
+- ✅ **NewsSnapper** — Aggregates HN, TechCrunch, RSS headlines in your terminal (NEW!)
 
 ### Premium Version
 [👉 **Get Premium on Gumroad — $15**](https://fargyy.gumroad.com/l/arbitrage-calculator)
@@ -156,6 +160,7 @@ Sports betting arbitrage is legal in most jurisdictions, but some bookmakers may
 - **Gumroad Store:** [https://fargyy.gumroad.com](https://fargyy.gumroad.com)
 - **Arbitrage Calculator (Premium):** [https://fargyy.gumroad.com/l/arbitrage-calculator](https://fargyy.gumroad.com/l/arbitrage-calculator) — $15
 - **Crypto Portfolio Tracker (Premium):** [https://fargyy.gumroad.com/l/xrcgws](https://fargyy.gumroad.com/l/xrcgws) — $10
+- **NewsSnapper (News Aggregator):** [https://fargyy.gumroad.com/l/zrevxw](https://fargyy.gumroad.com/l/zrevxw) — $7+
 - **GitHub Repo:** [https://github.com/fargyy1/sports-betting-arb-calc](https://github.com/fargyy1/sports-betting-arb-calc)
 - **All Products:** Options Calculator, Stock Screener, AI Prompts, Markdown Converter, Email Templates & more
 
